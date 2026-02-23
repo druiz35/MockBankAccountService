@@ -1,4 +1,4 @@
-package com.example.mockbankaccountservice;
+package com.druiz.mockbankaccountservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
